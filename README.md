@@ -40,3 +40,4 @@ Este é um software simples de verificação de IP, utilizando a ferramenta Nmap
 ### Requisitos:
 - Python 3.x
 - Nmap instalado no sistema
+- colorama ("SE TUDO DER CERTO, ELE BAIXARA AUTOMATICAMENTE")
